@@ -1,0 +1,11 @@
+{
+    "name": "ncut/auto",
+    "description": "autoload classes",
+    "authors": [
+        {
+            "name": "Yun-Fan Chen",
+            "email": "o07080826mina@gmail.com"
+        }
+    ],
+    "require": {}
+}
