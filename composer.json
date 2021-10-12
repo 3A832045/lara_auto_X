@@ -7,5 +7,8 @@
             "email": "o07080826mina@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^2.3",
+		"nesbot/carbon": "^1.21"
+    }
 }
